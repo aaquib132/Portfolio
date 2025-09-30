@@ -1,2 +1,2 @@
 # Portfolio
-My Portfolio using using HTML only
+My Portfolio using HTML only
